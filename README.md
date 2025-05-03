@@ -22,7 +22,7 @@ Control Pac-Man using the keyboard to collect coins (100 pts) and cherries (star
 - Starts with a “Start Game” screen.
 - Ends with a “You Won!” or “Game Over” screen, both offering a “Play Again” option.
 
-### 🔊 Audio Feedback
+### 🔊 Audio 
 Includes sound effects for collecting items and ghost collisions.
 
 ---
@@ -36,6 +36,9 @@ Includes sound effects for collecting items and ghost collisions.
 - **main()**: Manages the game loop, input handling, and state updates.
 
 ---
+## Contributor
+-**Muhammad Abdullah Younas**
+-**Ayema Amir**
 
 ## 🔒 License
 
