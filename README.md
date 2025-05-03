@@ -39,5 +39,5 @@ Includes sound effects for collecting items and ghost collisions.
 
 ## 🔒 License
 
-This project is **not open source**. All rights reserved.  
+This project is for educational/demo purposes only. Do not reuse or redistribute the code. 
 **Do not reuse, redistribute, or modify the code without explicit permission.**
